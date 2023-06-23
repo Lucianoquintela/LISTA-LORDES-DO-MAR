@@ -1,0 +1,335 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&family=Roboto:wght@400;500&display=swap');
+
+
+    body {
+        margin: 50px;
+    /*  background-color: rgb(79, 75, 75);  */
+        /* background-image: url("./img/mar\,.webp") no-repeat; */
+        background: #ADD8E6 url("./src/img/mar\,.webp") no-repeat fixed center;
+        font-family: 'Roboto', sans-serif;
+       
+    }
+
+    .Shichibukai1 {
+        width: 200px;
+        height: 340px;
+        background-color: #F0FFFF;
+        margin-left: 100px;  
+        position: absolute;
+        top: 167px;
+        left: 270px;
+        border-radius: 10px;
+        overflow:auto;
+        transition: 0.2s ease-in-out;
+        cursor: pointer;       
+    }
+
+    .Shichibukai1:hover{
+        background-color: #96d9d6;
+        transform: scale(1.05); /* animaçao ao passar o mouse*/
+    }
+
+    .Shichibukai2 {
+        width: 200px;
+        height: 340px;
+        background-color: azure;
+        margin-left: 100px;
+        border-radius: 10px;
+        position: absolute;
+        top: 167px;
+        left: 500px;
+        overflow:auto; 
+        transition: 0.2s ease-in-out;
+        cursor: pointer; 
+    }
+
+    .Shichibukai3 {
+        width: 200px;
+        height: 340px;
+        background-color: azure;
+        margin-left: 100px;  
+        position: absolute;
+        top: 167px;
+        left: 730px; 
+        border-radius: 10px;
+        overflow:auto;
+        overflow:auto;
+        transition: 0.2s ease-in-out; 
+        cursor: pointer;
+        
+    }
+
+    .Shichibukai4 {
+        width: 200px;
+        height: 340px;
+        background-color: azure;
+        margin-left: 100px; 
+        position: absolute;
+        top: 167px;
+        left: 960px;  
+        border-radius: 10px;
+        overflow:auto;
+        transition: 0.2s ease-in-out;
+        cursor: pointer;
+    }
+
+    .Shichibukai5 {
+        width: 200px;
+        height: 340px;
+        background-color: azure;
+        margin-left: 100px;
+        position: absolute;
+        top: 167px;
+        left: 1190px;  
+        border-radius: 10px; 
+        overflow:auto;
+        transition: 0.2s ease-in-out;
+        cursor: pointer;
+    }
+
+    .Shichibukai6 {
+        width: 200px;
+        height: 340px;
+        background-color: azure;
+        margin-left: 100px;
+        position: absolute;
+        top: 540px;
+        left: 270px;
+        border-radius: 10px; 
+        transition: 0.2s ease-in-out;
+        cursor: pointer;
+    }
+
+    .Shichibukai7 {
+        width: 200px;
+        height: 340px;
+        background-color: azure;
+        margin-left: 100px;
+        position: absolute;
+        top: 540px;
+        left: 500px; 
+        overflow:auto;
+        border-radius: 10px;
+        transition: 0.2s ease-in-out;
+        cursor: pointer;
+    }
+    
+    .Shichibukai8 {
+        width: 200px;
+        height: 340px;
+        background-color: azure;
+        margin-left: 100px;  
+        position: absolute;
+        top: 540px;
+        left: 730px;
+        overflow:auto;
+        border-radius: 10px;
+        transition: 0.2s ease-in-out;
+        cursor: pointer;
+    }
+    .Shichibukai9 {
+        width: 200px;
+        height: 340px;
+        background-color: azure;
+        margin-left: 100px;
+        position: absolute;
+        top: 540px;
+        left: 960px; 
+        overflow:auto;
+        border-radius: 10px;
+        transition: 0.2s ease-in-out;
+        cursor: pointer;
+    }
+    .Shichibukai10 {
+        width: 200px;
+        height: 340px;
+        background-color: azure;
+        margin-left: 100px;  
+        margin-left: 100px;
+        position: absolute;
+        top: 540px;
+        left: 1190px; 
+        overflow:auto; 
+        transition: 0.2s ease-in-out;
+        border-radius: 10px;
+        cursor: pointer;
+    }
+    .Shichibukai11 {
+        width: 200px;
+        height: 340px;
+        background-color: azure;
+        margin-left: 100px;
+        position: absolute;
+        top: 910px;
+        left: 730px; 
+        border-radius: 10px;
+        transition: 0.2s ease-in-out; /* tempo para mudar a cor ao passar  o mouse*/
+        cursor: pointer;
+    }
+
+    .logo-chapeu-de-palha {
+        margin-left: 1300px;  
+        position: absolute;
+        top:40px;
+        transition: 0.2s ease-in-out; /* tempo para mudar a cor ao passar  o mouse*/
+        cursor: pointer;
+    }
+
+    .nomeShichibukai {
+        border: solid 1px black;
+        border-radius: 10px;
+        text-align: center;
+        margin: 10px;
+    }
+
+    .Shichibukai2:hover{
+        background-color: #96d9d6;
+        transform: scale(1.05); /* animaçao ao passar o mouse*/
+    }
+
+    .Shichibukai3:hover{
+        background-color: #96d9d6;
+        transform: scale(1.05); /* animaçao ao passar o mouse*/
+    }
+
+    .Shichibukai4:hover{
+        background-color: #96d9d6;
+        transform: scale(1.05); /* animaçao ao passar o mouse*/
+
+    }
+    .Shichibukai5:hover{
+        background-color: #96d9d6;
+        transform: scale(1.05); /* animaçao ao passar o mouse*/
+    }
+    .Shichibukai6:hover{
+        background-color: #96d9d6;
+        transform: scale(1.05); /* animaçao ao passar o mouse*/
+    }
+    .Shichibukai7:hover{
+        background-color: #96d9d6;
+        transform: scale(1.05); /* animaçao ao passar o mouse*/
+    }
+    .Shichibukai10:hover{
+        background-color: #96d9d6;
+        transform: scale(1.05); /* animaçao ao passar o mouse*/
+    }
+    .Shichibukai8:hover{
+        background-color: #96d9d6;
+        transform: scale(1.05); /* animaçao ao passar o mouse*/
+    }
+    .Shichibukai9:hover{
+        background-color: #96d9d6;
+        transform: scale(1.05); /* animaçao ao passar o mouse*/
+    }
+
+    /* :hover escolher a cor quando o transition for executado*/
+    .Shichibukai11:hover{
+        background-color: #96d9d6;
+        transform: scale(1.05); /* animaçao ao passar o mouse*/
+    }
+    
+    .ShichibukaiImg {
+        margin-left: 35px;
+    }
+
+    .descricao {
+        /* overflow-y: scroll; adiciona um scroll*/
+        max-height: 120px; /*tamanho do texto*/
+	overflow-y: scroll;
+	font-size: 16px;
+	padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .logo1 {
+        cursor: pointer; 
+        transition: 0.2s ease-in-out; /* tempo para mudar a cor ao passar  o mouse*/
+        cursor: pointer;
+    }
+    
+.logo1:hover{
+    transform: scale(1.05); /* animaçao ao passar o mouse*/
+}
+
+.logo-chapeu-de-palha:hover {
+    transform: scale(1.05); /* animaçao ao passar o mouse*/
+}
+   
+.musicaFundo {
+    position: absolute;
+    top:70px;
+    left: 790px;
+}
+
+.fimSite {
+    position: absolute;
+    top:1400px;  
+    background-color: #00CED1;
+    width: 1903px;
+    height: 300px;
+    margin-left:-100px;  
+}
+
+.logo-footer {
+    width: 80px;
+    height: 80px;
+    margin-left: 1px;
+    margin-top: 30px;
+}
+
+.links {
+    text-decoration: none; /* tira o sublinhado dos links*/
+    color:white;
+}
+
+.nomeCriador {
+    position: absolute;
+    top:40px;
+    left: 390px;
+}
+
+.explorar {
+    position: absolute;
+    top:110px;
+    left: 320px; 
+}
+
+.siga-me {
+    position: absolute;
+    top:110px;
+    left: 680px; 
+}
+
+.sobre {
+    position: absolute;
+    top:110px;
+    left: 960px; 
+}
+
+.redeSociais {
+    position: absolute;
+    top:140px;
+    left: 660px; 
+}
+
+.sites {
+    position: absolute;
+    top:140px;
+    left: 300px;     
+}
+
+.biografia {
+    position: absolute;
+    top:180px;
+    left: 990px; 
+    color: white;
+}
+
+.componetesFooter {
+    padding-left: 300px;
+} 
+
+.linkParaCard{
+    text-decoration: none;
+}
+
